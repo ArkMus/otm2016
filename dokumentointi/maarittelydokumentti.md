@@ -1,1 +1,1 @@
-<img src="http://yuml.me/diagram/scruffy/class/[❝Off❞{bg:orange}]->[On{bg:green}]" >
+[Off->On](http://yuml.me/20a74c9c)
